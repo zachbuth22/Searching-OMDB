@@ -1,0 +1,18 @@
+﻿@model MovieModel
+
+@{
+    if (Model != null)
+    {
+        <h1>@Model.Title</h1>
+        <p>@Model.Released</p>
+        <p>@Model.Runtime</p>
+        <img src="@Model.Poster"></img>
+    }
+}
+
+<form asp-method="post" asp-action="MovieSearchResults">
+    <p>Enter a movie title</p>
+    <input type="text" name="Title" />
+
+    <input type="submit" />
+</form>

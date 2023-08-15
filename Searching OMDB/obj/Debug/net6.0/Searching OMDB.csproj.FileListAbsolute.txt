@@ -1,0 +1,33 @@
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/appsettings.Development.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/appsettings.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Searching OMDB.staticwebassets.runtime.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Searching OMDB
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Searching OMDB.deps.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Searching OMDB.runtimeconfig.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Searching OMDB.dll
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Searching OMDB.pdb
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.AssemblyInfo.cs
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.MvcApplicationPartsAssemblyInfo.cache
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.RazorAssemblyInfo.cache
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.RazorAssemblyInfo.cs
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets/msbuild.Searching OMDB.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets/msbuild.build.Searching OMDB.props
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Searching OMDB.props
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Searching OMDB.props
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets.build.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/staticwebassets.development.json
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/scopedcss/bundle/Searching OMDB.styles.css
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/scopedcss/projectbundle/Searching OMDB.bundle.scp.css
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.csproj.CopyComplete
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.dll
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/refint/Searching OMDB.dll
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.pdb
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/Searching OMDB.genruntimeconfig.cache
+/Users/zachbuth/Projects/Searching OMDB/Searching OMDB/obj/Debug/net6.0/ref/Searching OMDB.dll

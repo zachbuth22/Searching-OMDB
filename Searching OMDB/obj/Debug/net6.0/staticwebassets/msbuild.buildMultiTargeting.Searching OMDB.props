@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Searching OMDB.props" />
+</Project>
