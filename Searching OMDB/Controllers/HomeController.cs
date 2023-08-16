@@ -32,25 +32,21 @@ public class HomeController : Controller
     }
 
     [HttpGet]
-    public IActionResult MovieNightForm()
+    public IActionResult MovieNight()
     {
-        return View("MovieNight");
+        return View();
     }
 
     [HttpPost]
-    public IActionResult MovieNightResults(string Title1, string Title2, string Title3)
+    public IActionResult MovieNight(string Title1, string Title2, string Title3)
     {
         List<MovieModel> result = new List<MovieModel>();
 
-        MovieModel result1 = MovieModelDAL.GetMovie(Title1);
-        MovieModel result2 = MovieModelDAL.GetMovie(Title2);
-        MovieModel result3 = MovieModelDAL.GetMovie(Title3);
+        result.Add(MovieModelDAL.GetMovie(Title1));
+        result.Add(MovieModelDAL.GetMovie(Title2));
+        result.Add(MovieModelDAL.GetMovie(Title3));
 
-        result.Add(result1);
-        result.Add(result2);
-        result.Add(result3);
-
-        return View("MovieNight", result);
+        return View(result);
     }
 
     public IActionResult Privacy()

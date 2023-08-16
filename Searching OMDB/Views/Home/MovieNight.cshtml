@@ -1,19 +1,6 @@
-﻿@model MovieModel
+﻿@model List<MovieModel>
 
-@{
-foreach (MovieModel m in List<MovieModel>)
-{
-    if (Model != null)
-    {
-        <h1>@Model.Title</h1>
-        <p>@Model.Released</p>
-        <p>@Model.Runtime</p>
-        <img src="@Model.Poster"></img>
-    }
-}
-    }
-
-<form asp-method="post" asp-action="MovieSearchResults">
+<form asp-method="post" asp-action="MovieNight">
     <p>Enter a movie title</p>
     <input type="text" name="Title1" />
     <p>Enter a movie title</p>
@@ -23,3 +10,16 @@ foreach (MovieModel m in List<MovieModel>)
 
     <input type="submit" />
 </form>
+
+@{
+    if (Model != null)
+    {
+    foreach (MovieModel m in Model)
+        {
+            <h1>@m.Title</h1>
+            <p>@m.Released</p>
+            <p>@m.Runtime</p>
+            <img src="@m.Poster"></img>
+        }
+    }
+}
